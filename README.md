@@ -7,4 +7,4 @@ Initialize a new Nodejs project with express boiler plate code
 
 It will create a skelton code structure to start with. 
 
-Main code for JWT is written in users.js
+Main code for JWT is written in routes/users.js
